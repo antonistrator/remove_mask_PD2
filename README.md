@@ -6,4 +6,4 @@ of the Mask ond some other stuff ;D
 
 Note: Forked from [Removable Mask](https://modworkshop.net/mod/22800)
 
-Thx to [The Joker](https://modworkshop.net/user/41928)
+Thx to [The Joker](https://modworkshop.net/user/41928) original maker of the Mod
