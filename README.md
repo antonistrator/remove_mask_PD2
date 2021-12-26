@@ -1,6 +1,6 @@
 Remove your Mask (PayDay 2)
 
-```
+
 This fork is a little more unbalanced, you can now move while you can put
 of the Mask ond some other stuff ;D
 
