@@ -1,7 +1,7 @@
 {
 	"name" : "Removable Mask",
-	"description" : "Because who knew removing a mask was so hard.",
-	"author" : "The Joker",
+	"description" : "._.",
+	"author" : "no one",
 	"version" : "1.0",
 	"blt_version" : 2,
 	"image" : "icon.png",
