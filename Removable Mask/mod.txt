@@ -1,12 +1,19 @@
 {
-	"name" : "Removable Mask",
-	"description" : "._.",
-	"author" : "no one",
-	"version" : "1.0",
-	"blt_version" : 2,
+	"name": "Removable Mask",
+	"description": "Hello, World!",
+	"author": "katze0010",
+	"contact": "nothing here",
 	"image" : "icon.png",
 	"color" : "100 100 100",
-	"hooks" : [
-		{"hook_id" : "lib/units/beings/player/states/playermaskoff", "script_path" : "main.lua"}
+	"keybinds": [
+	{
+			"keybind_id" : "mask_off",
+            "name" : "Remove Mask",
+            "description" : "remove mask on keypress"
+            "script_path" : "main.lua",
+            "run_in_menu" : false,
+            "run_in_game" : true,
+            "localized" : false
+		}
 	]
 }
