@@ -3,8 +3,7 @@
 	"description": "Remove your Mask on the go!",
 	"author": "katze0010",
 	"contact": "nothing here",
-	"image" : "icon.png",
-	"color" : "100 100 100",
+	"color": "36 36 36",
 	"keybinds": [
 	{
 			"keybind_id" : "mask_off",
