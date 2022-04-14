@@ -1,6 +1,6 @@
 {
 	"name": "Removable Mask",
-	"description": "Hello, World!",
+	"description": "Remove your Mask on the go!",
 	"author": "katze0010",
 	"contact": "nothing here",
 	"image" : "icon.png",
